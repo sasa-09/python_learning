@@ -1,4 +1,7 @@
 
 x: bool = True
-x: bool
+x: int = 1
+x: float = 1.6
+x: str = "hello"
+
 print(x)
